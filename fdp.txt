@@ -1,0 +1,5 @@
+Pzim;
+ 
+ Begin
+   writeln("vai pro inferno todo mundo");
+ End.
