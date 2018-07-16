@@ -2,4 +2,6 @@ Pzim;
  
  Begin
    writeln("vai pro inferno todo mundo");
+   writeln("mentira, vai todo mundo ser feliz"):
+   writeln("Pedro e isabelle editaram");
  End.
